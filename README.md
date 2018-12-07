@@ -1,2 +1,2 @@
 # 3 Phase Fault Detection and Monitering System
-Student
+3 Phase Fault Detection and Monitering System
